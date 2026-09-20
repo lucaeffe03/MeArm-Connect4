@@ -299,7 +299,7 @@ if __name__ == "__main__":
     active_col = -1 
 
     GRID_X = 0.14
-    TOKEN_RADIUS = 0.0060  # 6.5 millimetri per sfere perfette
+    TOKEN_RADIUS = 0.0060  # 6 millimetri per sfere perfette
 
     try:
         while True:
